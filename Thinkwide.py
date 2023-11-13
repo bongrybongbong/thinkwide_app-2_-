@@ -1,6 +1,3 @@
-pip install streamlit_pills
-pip install streamlit_extra
-
 from typing import List
 import streamlit as st
 from streamlit_pills import pills
